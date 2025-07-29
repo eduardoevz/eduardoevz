@@ -37,11 +37,7 @@ C                ██████░░░░░░░░░░░ 35%
 
 ### 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardovelasquez&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardovelasquez&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
+![eduardoevz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoevz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ---
 
 ### 🧪 Proyectos Destacados
