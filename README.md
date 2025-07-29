@@ -1,17 +1,4 @@
-Perfecto, Eduardo. Aquí tienes un archivo `README.md` completamente personalizado para ti. Incluye:
 
-* Presentación
-* Lenguajes que usas
-* Estadísticas de GitHub
-* Gráfica de uso por lenguaje
-* Proyectos destacados
-* Contacto
-
----
-
-### 📄 `README.md` PERSONALIZADO
-
-````markdown
 <h1 align="center">Hola 👋, soy Eduardo Velasquez</h1>
 <h3 align="center">Desarrollador de software apasionado por la IA, Python, Java y el desarrollo web.</h3>
 
