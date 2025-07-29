@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola 👋, soy Eduardo Velasquez
 
-<!--
-**eduardoevz/eduardoevz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de software | Apasionado por C, Python, y más.
 
-Here are some ideas to get you started:
+- 🌱 Actualmente aprendiendo GitHub Actions y DevOps.
+- 💬 Pregúntame sobre programación en C, Python, o proyectos Open Source.
+- 📫 Contáctame: [LinkedIn](https://linkedin.com/in/eduardovelasquez) | [Twitter](https://twitter.com/eduvelas)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## Estadísticas
+
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardovelasquez&show_icons=true&theme=dark)
+
