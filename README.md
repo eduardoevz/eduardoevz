@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola 👋, soy Eduardo Velasquez</h1>
-<h3 align="center">Desarrollador de software apasionado por la IA, Python, Java y el desarrollo web.</h3>
+<h3 align="center">Desarrollador de software apasionado por la IA, Python y el desarrollo web.</h3>
 
 ---
 
@@ -58,7 +58,7 @@ C                ██████░░░░░░░░░░░ 35%
 ### 📫 Contacto
 
 * LinkedIn: [Eduardo Velasquez](https://linkedin.com/in/eduardovelasquez)
-* Correo: [eduardo@email.com](mailto:eduardo@email.com) *(actualízalo si quieres)*
+* Correo: [eduardo@email.com](mailto:eduardo@email.com) 
 * Twitter: [@eduvelas](https://twitter.com/eduvelas)
 
 ---
