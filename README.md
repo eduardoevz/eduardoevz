@@ -28,11 +28,11 @@
 
 ### 🧪 Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías |
-| --- | --- | --- |
-| [financewise-ai](https://github.com/eduardoevz/financewise-ai) | Análisis financiero en español: catálogo personal, NIO/USD/EUR y reportes PDF/Excel. | Next.js, Firebase, Gemini |
-| [Volcanic-2026](https://github.com/eduardoevz/Volcanic-2026) | Plataforma de acompañamiento integral a la salud de la mujer — Hackatón Nicaragua 2026. | TypeScript |
-| [AgroEco](https://github.com/eduardoevz/AgroEco) | Plataforma de IA y visión artificial para detección temprana, mapeo georreferenciado de brotes y monitoreo fitosanitario en cultivos. | TypeScript |
+| Proyecto | Descripción | Tecnologías | Actividad |
+| --- | --- | --- | --- |
+| [financewise-ai](https://github.com/eduardoevz/financewise-ai) | Análisis financiero en español: catálogo personal, NIO/USD/EUR y reportes PDF/Excel. | Next.js, Firebase, Gemini | ![Último commit](https://img.shields.io/github/last-commit/eduardoevz/financewise-ai?color=7aa2f7&label=%20) |
+| [Volcanic-2026](https://github.com/eduardoevz/Volcanic-2026) | Plataforma de acompañamiento integral a la salud de la mujer — Hackatón Nicaragua 2026. | TypeScript | ![Último commit](https://img.shields.io/github/last-commit/eduardoevz/Volcanic-2026?color=7aa2f7&label=%20) |
+| [AgroEco](https://github.com/eduardoevz/AgroEco) | Plataforma de IA y visión artificial para detección temprana, mapeo georreferenciado de brotes y monitoreo fitosanitario en cultivos. | TypeScript | ![Último commit](https://img.shields.io/github/last-commit/eduardoevz/AgroEco?color=7aa2f7&label=%20) |
 
 ---
 
@@ -45,10 +45,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardoevz&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/eduardoevz/eduardoevz/metrics/trophy.svg" />
 </p>
 
 <p align="center">
