@@ -1,28 +1,27 @@
-<h1 align="center">Hola 👋, soy Eduardo Velásquez</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f0c29,100:302b63&text=Hola,%20soy%20Eduardo%20Velásquez&fontColor=ffffff&fontSize=34&fontAlignY=40&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:89f7fe,100:66a6ff&text=Hola,%20soy%20Eduardo%20Velásquez&fontColor=1a1a2e&fontSize=34&fontAlignY=40&animation=fadeIn" />
+  <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:89f7fe,100:66a6ff&text=Hola,%20soy%20Eduardo%20Velásquez&fontColor=1a1a2e&fontSize=34&fontAlignY=40&animation=fadeIn" width="100%" />
+</picture>
+
 <h3 align="center">Estudiante de Ingeniería en Software (UNI, Nicaragua) | Python & IA | Desarrollo Web</h3>
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 Actualmente
 
-- 🎓 Estudiante de Ingeniería en Software en la **UNI (Universidad Nacional de Ingeniería, Nicaragua)**.
-- 🤖 Enfocado en **Python** e **Inteligencia Artificial / Visión Artificial**.
-- 🌐 Construyendo aplicaciones web modernas con **TypeScript**, **Next.js** y **Firebase**.
-- ⚙️ Me gusta automatizar tareas con scripts y explorar nuevas herramientas.
+- 🔭 Trabajando en proyectos de **IA/Visión Artificial** (AgroEco) y **desarrollo web** (financewise-ai, Volcanic-2026).
+- 🌱 Aprendiendo más sobre **arquitecturas escalables** y **automatización** con Python.
+- 👯 Buscando colaborar en proyectos de **IA aplicada** o **desarrollo web con Next.js**.
+- 💬 Pregúntame sobre: Python, IA, TypeScript/Next.js, automatización.
+- 📫 Cómo contactarme: ver sección [Contacto](#-contacto) abajo.
 
 ---
 
 ### 🧠 Tecnologías
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,firebase,html,java,c" />
 </p>
 
 ---
@@ -40,16 +39,16 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eduardoevz&show_icons=true&theme=vue-dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoevz&layout=compact&theme=vue-dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eduardoevz&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoevz&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardoevz&theme=vue-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardoevz&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eduardoevz&theme=algolia&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=eduardoevz&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
@@ -57,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eduardoevz&label=Visitas+al+perfil&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=eduardoevz&label=Visitas+al+perfil&color=7aa2f7&style=flat" />
 </p>
 
 ---
