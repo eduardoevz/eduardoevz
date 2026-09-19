@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eduardoevz/eduardoevz/metrics/achievements.svg" />
+  <img src="https://raw.githubusercontent.com/eduardoevz/eduardoevz/metrics/trophy.svg" />
 </p>
 
 <p align="center">
