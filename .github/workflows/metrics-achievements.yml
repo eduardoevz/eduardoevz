@@ -1,0 +1,28 @@
+name: Generate Achievements Card
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  achievements:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate achievements metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          filename: achievements.svg
+          committer_branch: metrics
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_limit: 6
