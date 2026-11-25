@@ -4,7 +4,7 @@
   <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:89f7fe,100:66a6ff&text=Hola,%20soy%20Eduardo%20Velásquez&fontColor=1a1a2e&fontSize=34&fontAlignY=40&animation=fadeIn" width="100%" />
 </picture>
 
-<h3 align="center">Estudiante de Ingeniería en Software (UNI, Nicaragua) | Python & IA | Desarrollo Web</h3>
+<h3 align="center">Estudiante de Ingeniería en Sistemas (UNI, Nicaragua) | Python & IA | Desarrollo Web</h3>
 
 ---
 
